@@ -25,7 +25,6 @@ int main() {
 	}
 	
 	arr[i] = q1;
-	//printf("%d\n", arr[i]);
 	
 	int temp, j = count+1;
 	for(int k=0; k<(count+1)/2; k++) {         // Reversing the array so as to convert in the binary form
